@@ -1,2 +1,3 @@
 # hello-world
-meow
+
+A mouse is an input device. 
